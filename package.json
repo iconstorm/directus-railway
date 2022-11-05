@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "npx directus start"
+    "start": "directus start"
   },
   "keywords": [],
   "author": "",
