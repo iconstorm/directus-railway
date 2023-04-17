@@ -1,7 +1,7 @@
 # Directus Railway Project Template
 
 ## Features
-- Directus 9.24.0
+- Directus 9.25.1
 - Postgresql
 - DigitalOcean Spaces for storage
 
